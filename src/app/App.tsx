@@ -20,7 +20,7 @@ const portfolioItems = [
 <b>• 사용자 중심 레이아웃</b><br />
 <span style="font-size: 0.85rem;">여백의 미를 활용한 가독성 확보 및 직관적인 UI 구현
 `,
-    image: '/img/Gemini_Generated_Image_lazkm6lazkm6lazk.png',
+    image: './img/Gemini_Generated_Image_lazkm6lazkm6lazk.png',
     projectUrl: 'https://hellocharger.kr/',
   },
   {
@@ -40,17 +40,17 @@ const portfolioItems = [
 <b>• 최적화된 시각 경험</b><br />
 <span style="font-size: 0.85rem;">코드와의 간극을 좁히는 역량으로 브라우저 환경에 최적화된 UI 유지
 `,
-    image: '/img/Gemini_Generated_Image_d1mdhud1mdhud1md.png',
+    image: './img/Gemini_Generated_Image_d1mdhud1mdhud1md.png',
     projectUrl: 'https://castpro.kr/',
   },
   {
     id: 3,
     title: '브랜드 카탈로그 디자인',
     category: 'Brand & Print',
-    image: '/img/cover.jpg',
+    image: './img/cover.jpg',
     images: [
-      '/img/concept.jpg',
-      '/img/cover.jpg'
+      './img/concept.jpg',
+      './img/cover.jpg'
     ],
     description: `
 <b>• 영업력을 높이는 기술 시각화</b><br />
@@ -77,10 +77,10 @@ const portfolioItems = [
 <b>• 오프라인 비즈니스 성과 기여</b><br />
 <span style="font-size: 0.85rem;">실제 전시회 배포 시 사용자 동선을 고려한 레이아웃 설계로 브랜드 인지도 상승 및 전문적인 기업 이미지 구축에 기여
 `,
-    image: '/img/print1.png',
+    image: './img/print1.png',
     images: [
-      '/img/print2.png',
-      '/img/print1.png'
+      './img/print2.png',
+      './img/print1.png'
     ]
   },
   {
@@ -97,7 +97,7 @@ const portfolioItems = [
 <b>• 전략적 부서 협업</b><br />
 <span style="font-size: 0.85rem;">마케팅·영업팀의 요구사항을 즉각 반영하여 비즈니스 목적에 부합하는 솔루션 제공 및 성공적인 전시 지원
 `,
-    image: '/img/print3.jpg',
+    image: './img/print3.jpg',
   },
   {
     id: 6,
@@ -112,10 +112,10 @@ const portfolioItems = [
 <br />
 
 `,
-    image: '/img/detail_thum.png',
+    image: './img/detail_thum.png',
     images: [
-      '/img/detail_1.jpg',
-      '/img/detail_2.jpg'
+      './img/detail_1.jpg',
+      './img/detail_2.jpg'
     ],
     isScrollable: true
   },
@@ -133,10 +133,10 @@ const portfolioItems = [
 <b>• 고효율 부가가치 창출</b><br />
 더 짧은 시간 안에 최고의 퀄리티를 구현하며 비즈니스적 가치를 높이는 스마트 디자인 지향
 `,
-    image: '/img/ai1.jpg',
+    image: './img/ai1.jpg',
     images: [
-      '/img/ai2.jpg',
-      '/img/ai1.jpg'
+      './img/ai2.jpg',
+      './img/ai1.jpg'
     ]
   },
   {
@@ -153,12 +153,12 @@ const portfolioItems = [
 <b>• 이질감 없는 디테일 합성</b><br />
 정밀한 누끼 작업과 색채 보정을 통해 제품과 배경을 완벽하게 융합하여 최상의 비주얼 퀄리티 도출
 `,
-    image: '/img/visual1.jpg',
+    image: './img/visual1.jpg',
     images: [
-      '/img/visual2.jpg',
-      '/img/visual3.jpg',
-      '/img/visual4.jpg',
-      '/img/visual1.jpg'
+      './img/visual2.jpg',
+      './img/visual3.jpg',
+      './img/visual4.jpg',
+      './img/visual1.jpg'
     ]
   },
   {
@@ -175,17 +175,17 @@ description: `
 <b>• 메시지 전달력과 가독성 극대화</b><br />
 사용자의 시선 흐름을 돕는 타이포그래피와 직관적인 정보 배치를 통해 브랜드가 전하고자 하는 핵심 메시지를 명확하게 각인
 `,
-    image: '/img/card1 (1).jpg',
+    image: './img/card1 (1).jpg',
     images: [
-      '/img/card1 (1).jpg',
-      '/img/card1 (2).jpg',
-      '/img/card1 (3).jpg',
-      '/img/card1 (4).jpg',
-      '/img/card1 (5).jpg',
-      '/img/card1 (6).jpg',
-      '/img/card1 (7).jpg',
-      '/img/card1 (8).jpg',
-      '/img/card1 (9).jpg'
+      './img/card1 (1).jpg',
+      './img/card1 (2).jpg',
+      './img/card1 (3).jpg',
+      './img/card1 (4).jpg',
+      './img/card1 (5).jpg',
+      './img/card1 (6).jpg',
+      './img/card1 (7).jpg',
+      './img/card1 (8).jpg',
+      './img/card1 (9).jpg'
     ]
   },
   {
@@ -202,14 +202,14 @@ description: `
 <b>• 메시지 전달력과 가독성 극대화</b><br />
 사용자의 시선 흐름을 돕는 타이포그래피와 직관적인 정보 배치를 통해 브랜드가 전하고자 하는 핵심 메시지를 명확하게 각인
 `,
-    image: '/img/card2 (1).jpg',
+    image: './img/card2 (1).jpg',
     images: [
-      '/img/card2 (1).jpg',
-      '/img/card2 (2).jpg',
-      '/img/card2 (3).jpg',
-      '/img/card2 (4).jpg',
-      '/img/card2 (5).jpg',
-      '/img/card2 (6).jpg'
+      './img/card2 (1).jpg',
+      './img/card2 (2).jpg',
+      './img/card2 (3).jpg',
+      './img/card2 (4).jpg',
+      './img/card2 (5).jpg',
+      './img/card2 (6).jpg'
     ]
     },
   {
@@ -226,14 +226,14 @@ description: `
 <b>• 메시지 전달력과 가독성 극대화</b><br />
 사용자의 시선 흐름을 돕는 타이포그래피와 직관적인 정보 배치를 통해 브랜드가 전하고자 하는 핵심 메시지를 명확하게 각인
 `,
-    image: '/img/card3 (1).jpg',
+    image: './img/card3 (1).jpg',
     images: [
-      '/img/card3 (1).jpg',
-      '/img/card3 (2).jpg',
-      '/img/card3 (3).jpg',
-      '/img/card3 (4).jpg',
-      '/img/card3 (5).jpg',
-      '/img/card3 (6).jpg'
+      './img/card3 (1).jpg',
+      './img/card3 (2).jpg',
+      './img/card3 (3).jpg',
+      './img/card3 (4).jpg',
+      './img/card3 (5).jpg',
+      './img/card3 (6).jpg'
     ]
     },
 ];
